@@ -33,7 +33,7 @@ class _VideoListState extends State<VideoList> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Video List Demo'),
+        title: const Text('Video List Demo 2222'),
       ),
       body: ListView.separated(
         itemBuilder: (context, index) {
